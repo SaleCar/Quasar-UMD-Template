@@ -36,6 +36,6 @@ To have code highlighting and intellisense inside template literals, I suggest t
 
 ## Other
 
-Similar project but without Quasar, just vanilla Vue, can be found here: 
-GitHub: https://github.com/SaleCar/Vue3-QuickStart
+Similar project but without Quasar, just vanilla Vue, can be found here:  
+GitHub: https://github.com/SaleCar/Vue3-QuickStart  
 Demo: http://vue3quickstart.rf.gd

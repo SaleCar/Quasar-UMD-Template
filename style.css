@@ -1,0 +1,21 @@
+
+
+.body--light {
+    --q-primary: #368CE2;
+    --drawer: #E6F3FE;
+    --green: lightgreen;
+}
+
+.body--dark {
+    --q-primary: #083150;
+    --drawer: #062034;
+    --green: darkgreen;
+}
+
+.drawer {
+    background: var(--drawer)
+}
+
+.loginbtn {
+    background: var(--green)
+}

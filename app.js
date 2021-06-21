@@ -8,7 +8,7 @@ import {user} from '/store/user.js'             //user state
 //router
 import router from '/router.js'
 router.beforeEach(async (to, from) => {
-    if (to.fullPath == '/') return true
+    if (to.path == '/') return true
     //no match - goto root
     if (!to.matched.length) {to.fullPath = '/'; return true}
     //if not logged -> login dialog
